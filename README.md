@@ -18,7 +18,7 @@ las tecnologias que se aplicaron en la parte del front-end fueron:
 - Boostrap
 
 Las librerias que se requirieron fueron:
-- Javamail
+- Javamail (se rquiere añadir este paqute y https://github.com/StudentUD/javaMail/blob/master/src/java/Controller/SendMailDao/SendEmailSMTP.java)
 - mysql connector
 - fileupload
 - JDK 1.8
